@@ -1,0 +1,3 @@
+# 忽略目录里除 .gitkeep 外的所有文件
+docs/*
+!docs/.gitkeep
